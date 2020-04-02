@@ -1,4 +1,4 @@
-# danimal1802
+# AES Implementation - ECB Primitive in Python
 AES Implementation - ECB primitive in Python using basic libraries - Educational purpose
 University of Iowa
 Spring 2020
